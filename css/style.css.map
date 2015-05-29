@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"../style.scss",
+		"../variables.scss",
+		"../components/scaffolding.scss"
+	],
+	"sourcesContent": [],
+	"mappings": "AEAA,AAAG,AAAC,AAAS,AAAC,AAAS,AAAY,AAInC,AACE,AAAY,AACZ,AAAW,AACX,AAA6B,AAG/B,AACE,ADP4B,ACQ5B,ADZ4B,ACiB9B,AACE,AAAO,AACP,AAAiB,AAEnB,AAAC,AAAQ,AAAC,AAEN,AAAiB",
+	"names": []
+}
